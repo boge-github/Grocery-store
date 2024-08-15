@@ -14,6 +14,8 @@
 ### 3.懒人专属CF官方IP,IP落地地区都为美国，支持13个标准端口切换
 #### 104.16.0.0,104.17.0.0,104.18.0.0,104.19.0.0,104.20.0.0,104.21.0.0,104.22.0.0,104.24.0.0,104.25.0.0,104.26.0.0,104.27.0.0,172.66.0.0,172.67.0.0,162.159.0.0
 #### 2606:4700::
+#### 3个自动优选Cloudflare官方IP的网站
+#### [自动优选1](https://ipdb.030101.xyz/bestcf/),[自动优选2](https://monitor.gacjie.cn/page/cloudflare/ipv4.html),[自动优选3](https://stock.hostmonit.com/CloudFlareYes).
 
 ### 4.[优选IP/优选反代IP工具下载](https://github.com/yonggekkk/Cloudflare_vless_trojan)
 
